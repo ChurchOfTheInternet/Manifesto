@@ -1,0 +1,2 @@
+# Manifesto
+Manifesto of COTI
